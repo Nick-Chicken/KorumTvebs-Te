@@ -1,0 +1,1 @@
+sorumluluk kabul etmiom napim
