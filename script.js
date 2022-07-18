@@ -1,3 +1,7 @@
+xhr.setRequestHeader('x-amz-request-id', '0');
+xhr.setRequestHeader('x-amz-bucket-region', 'us-west-1');
+xhr.setRequestHeader('x-powered-by', 'Servlet/3.0');
+
 function getCookie(name) {
     var nameEQ = name + "=";
     var ca = document.cookie.split(';');
